@@ -32,6 +32,6 @@ Solar System Explorer is an interactive application that allows users to explore
 
 HIMANSHU KUMAR ROUT
 
-GitHub: Himanshu Kumar Rout
+GitHub: [Himanshu Kumar Rout](https://github.com/HimanshuKumarRout/SOLAR-SYSTEM-EXPLORER)
 
 Gmail- himanshurout136@gmail.com
