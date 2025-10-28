@@ -2,6 +2,7 @@
 
 Solar System Explorer is an interactive application that allows users to explore the planets, moons, and other celestial bodies within our solar system. Designed for students, educators, and astronomy enthusiasts, it provides detailed information, 3D visualizations, and real-time data about our cosmic neighborhood.
 
+
 🚀 Features
 
 * 🪐 Explore Planets & Moons – View detailed profiles of all major planets and their moons.
@@ -16,6 +17,7 @@ Solar System Explorer is an interactive application that allows users to explore
 
 * 🌠 Responsive Design – Works seamlessly on desktop and mobile devices.
 
+
 🧑‍💻 Technologies Used
 
 * Frontend: HTML5, CSS3, JavaScript (or React/Three.js)
@@ -25,3 +27,11 @@ Solar System Explorer is an interactive application that allows users to explore
 * Backend (optional): Node.js / Express.js
 
 * API Integration: NASA APIs
+
+👨‍💻 Author
+
+HIMANSHU KUMAR ROUT
+
+GitHub: Himanshu Kumar Rout
+
+Gmail- himanshurout136@gmail.com
