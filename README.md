@@ -62,7 +62,7 @@ SOLAR-SYSTEM-EXPLORER/
 ### 1️⃣ Clone the Repository
 
 ```bash id="x8l2fd"
-git clone https://github.com/your-username/solar-system-explorer.git
+git clone https://github.com/HimanshuKumarRout/solar-system-explorer.git
 cd solar-system-explorer
 ```
 
